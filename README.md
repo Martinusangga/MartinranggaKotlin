@@ -1,0 +1,2 @@
+# MartinranggaKotlin
+Aplikasi Sederhana
